@@ -19,11 +19,6 @@ https://github.com/SandyMurillo/IT105-OnlineShop-Group6
 
 ---
 
-## Phase 3 Outputs
-
-### 📁 SQL Script (Star Schema)
-Contains all BI-related queries and transformed schema.
-
 ---
 
 ## Phase 3 Complete
