@@ -1,11 +1,25 @@
-## Insights / Documentation
+# Online Shop System - Phase 3 (Business Intelligence)
 
-This project provided a deeper understanding of how databases are not only used for storing data but also for generating meaningful business insights. By creating both the original relational schema and the star schema, I was able to see the clear difference between transactional systems and analytical systems. The normalized schema is effective for daily operations such as inserting and updating records, but it becomes complex when used for reporting due to multiple joins.
+## Group Members
 
-Designing the star schema (fact and dimension tables) helped me realize how data can be structured specifically for business intelligence (BI) purposes. The fact_sales table serves as the central point of analysis, while the dimension tables such as dim_date, dim_customer, and dim_product provide context. This structure simplifies queries and improves performance, especially when analyzing large datasets.
+| Name | Role |
+|------|------|
+| Sandy Murillo | Project Manager |
+| Annaliza Juarez | Documentation Lead |
+| Donalen Grace Rico | SQL Developer |
+| Eunice Lozano | Security Officer |
+| Gabe Arsenal | QA/Tester |
+| Abby Llaguno | Database Administrator |
 
-Another key learning was writing BI queries that answer real business questions. For example, calculating monthly revenue, identifying top-selling products, and segmenting customers based on their purchasing behavior showed how SQL can be used as a decision-making tool. I also learned how to use aggregate functions, grouping, filtering, and common table expressions (CTEs) to extract useful patterns from the data.
+---
 
-One challenge encountered during the project was ensuring data consistency between tables, especially when joining multiple tables and handling conditions like cancelled orders. It required careful attention to detail to avoid incorrect results. Additionally, designing meaningful customer segments and metrics such as lifetime value required critical thinking beyond just writing queries.
+## GitHub Repository
 
-Overall, this project improved my skills in database design, SQL querying, and data analysis. It also helped me understand the importance of structuring data properly to support efficient reporting and business decisions. Moving forward, I can apply these concepts to more complex systems and real-world data analytics scenarios.
+https://github.com/SandyMurillo/IT105-OnlineShop-Group6
+
+---
+
+## Phase 3 Outputs
+
+### 📁 SQL Script (Star Schema)
+Contains all BI-related queries and transformed schema.
