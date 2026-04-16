@@ -1,4 +1,4 @@
-# Online Shop System - Phase 3 (Business Intelligence)
+# Online Shop System - Phase 3
 
 ## Group Members
 
