@@ -23,3 +23,12 @@ https://github.com/SandyMurillo/IT105-OnlineShop-Group6
 
 ### 📁 SQL Script (Star Schema)
 Contains all BI-related queries and transformed schema.
+
+---
+
+## Phase 3 Complete
+
+- Star schema created  
+- BI queries implemented  
+- Insights documented  
+- Files uploaded to GitHub  
