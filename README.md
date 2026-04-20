@@ -11,7 +11,7 @@
 | Abby Llaguno | Database Administrator |
 
 ## GitHub Repository
-https://github.com/SandyMurillo/IT105-OnlineShop-Group6
+https://github.com/murillosandyp/IT105-FinalGroupProject-FINALSIX-2a
 
 ## Phase 1 Complete
 - Group roles assigned
